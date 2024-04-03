@@ -3,7 +3,7 @@ clear;clc;
 % ROI definition file
 roifile='C:\Users\wang1\Downloads\Power_Neuron_delete_cole_uncerrtain_ROIs_Radius5_Mask.nii';
 
-% preprocessed data
+% preprocessed data (please replaced with your own data)
 selected_Res_file='C:\Users\wang1\Downloads\example_data.nii';
 
 %extract ROI data
